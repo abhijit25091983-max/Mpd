@@ -74,6 +74,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kvzZbv_vzJdv2WTGAELYmK9BO1TNk5o3w-zh0fQzUKPkZ_FI6dAefocK3dFsl2n5shogPHa5=s900-c-k-c0x00ffffff-no-rj",Colors Rishtey
 https://servertvhub.site/jio/app/ts_live_279.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LOGO_HD/image.png",Star Gold Thrills
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b
