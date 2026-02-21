@@ -11,3 +11,126 @@ http://217.20.112.199:8888/lifeokhd/index.m3u8
 http://217.20.112.199:8888/natgeowild/index.m3u8
 #EXTINF:-1,Animal Planet Dish Tv
 http://217.20.112.199:8888/animalplanet/index.m3u8
+===================================================================================================
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
+https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
+https://sl.vodep39240327.workers.dev/channel/SAB HD.m3u8
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv",Sony Max HD
+https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
+
+#EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",Sony Max 2
+https://sl.vodep39240327.workers.dev/channel/SONY MAX2.m3u8
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv",Sony Pal
+https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8
+
+#EXTINF:0, tvg-logo="https://img.platform.wurl.dev/channel/1007/lg/202ba7/LG-Logo-PNG-100x100_v1.png" group-title="SonyLiv",Sony Kal
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv",Sony Wah
+https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv",Sony YaY
+https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv",Sony BBC Earth HD
+https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
+
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv",Sony Pix HD
+https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
+
+
+#EXTINF:0, tvg-logo="https://c.evchannel_idon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv",Sony Live
+
+
+
+#EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",Ten 1 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 1 HD.m3u8
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten2_HD_Logo_CLR.png" group-title="SonyLiv",Ten 2 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 2 HD.m3u8
+#EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten3_HD_Logo_CLR.png" group-title="SonyLiv",Ten 3 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 3 HD.m3u8
+#EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png" group-title="SonyLiv",Ten 4 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
+#EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png" group-title="SonyLiv",Ten 5 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
+
+
+#EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SonyLiv",Sony Max SD
+https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
+
+
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SonyLiv",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=300
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://keys.vodep39240327.workers.dev/?id=300.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jio",Colors HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=144&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1477&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Jio",Colors Infinity HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1158&format=.m3u8
+
+#EXTINF:-1 tvg-id="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-logo="" group-title="Jio",Colors Rishtey
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=279&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex Superhits
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1450&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex Bollywood
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1763&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",MTV HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",CN+ HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1079&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Nick HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1226&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",History TV 18 HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=578&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",TLC HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=479&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Discovery HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=463&format=.m3u8
+
