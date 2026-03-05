@@ -1,14 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony HD Dishtv
-http://217.20.112.199/sethd/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD Dishtv
-http://217.20.112.199/ColorsHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_SAB_Logo_%282022%29.png/1200px-Sony_SAB_Logo_%282022%29.png",Sony Sab HD Dishtv
-http://217.20.112.199/sabtvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD Dishtv
-http://217.20.112.199/lifeokhd/index.m3u8
-#EXTINF:-1,Net jeo Wild Dish Tv
-http://217.20.112.199/natgeowild/index.m3u8
-#EXTINF:-1,Animal Planet Dish Tv
-http://217.20.112.199/animalplanet/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jio",Colors HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=144&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1477&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Jio",Colors Infinity HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1158&format=.m3u8
+
+#EXTINF:-1 tvg-id="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-logo="" group-title="Jio",Colors Rishtey
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=279&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex Superhits
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1450&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex Bollywood
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1763&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",MTV HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
