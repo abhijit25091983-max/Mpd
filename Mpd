@@ -101,6 +101,10 @@ https://tplay.live/tplay/playout/209612/master.m3u8
 https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMQdG4oeDNTd4f3QHObyKmLE0IX7jhnfUi2cVbb2z4TzuesCejO6_i88&s=10",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="watcho",Discovery ID HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
+https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",Sony BBC Earth
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
 
@@ -124,3 +128,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpWMHw1jSaNn0f4mRli64RcbbtYUtyvRse_6QnfLRVLo8Z_LRBv-IKh74qDErcGDDvrr_S68NU8ZaCYWmGNj6z0dULq2rJDZ99WbxiQ&s=10",Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="watcho",CN HD+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd
