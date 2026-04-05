@@ -1,1 +1,127 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
+http://mysouq1.com:80/live/76631957/10205687/396.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bIqh7m8AlSK-6ZrLOT2p1DFCZcJOZ9w-MxIRUnIQoehma1PkrDQ9B48&s=10",Star Jalsha HD
+http://mysouq1.com:80/live/76631957/10205687/98883.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+http://mysouq1.com:80/live/76631957/10205687/98882.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj",Sony Aath
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/08/21/89/082189d864caddc9aeda6bd623afe73f.jpg",Gopal Bhar
+https://tplay.live/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJQVx4JulTB4pXkMntlqBiLIQEyYjAPXrQQ3gr6gIm12g2SfH4YU-HmjE&s=10",Star Bangla
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QONbgCivKKO2hVibRZtkRRvV49UY4A2Xqz19YWghsQdkFkX6YBHihfHOqby8GEc06haDQVP3=s900-c-k-c0x00ffffff-no-rj",Colors Bangla Cinema
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1657&format=.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOT4iSOGtLeXD5fzjaJlWi2-RlzMTRF0HQ_LzKaYPXBamu2pF1pVeEJmk&s=10",Jalsha Movies HD
+http://mysouq1.com:80/live/76631957/10205687/425.ts
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png",Cine Jomjomat
+https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6QgZSp1xTYXRHXrNmfB9Snrubdb6jSYQ94AYUyBfUUnVI_v4prlcsTAv&s=10",Tplay Bengali Movies
+https://tplay.live/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/kolkata/86/033p5405586/catalogue/sangeet-bangla-network-pvt-ltd-park-street-kolkata-satellite-channels-2bmbjp.jpg",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",Abp Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcnYFrfYm4GzkKCqTyQqhc0HCtje_dfPK6zaNz4LwGA&s=10",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYYih_HIf1QaZYf8CNfxMyq3tjCGYDLK3Lx4S8JFSxg&s=10",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star Plus HD
+http://mysouq1.com:80/live/76631957/10205687/221.ts
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat HD
+http://mysouq1.com:80/live/76631957/10205687/199.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yawyROd5jQqRiXHdmttib1ZhZTZ_flA4ACjPpNNdrVFC_J8NWmrlI-Se97YMaCJSvId4s7eV=s900-c-k-c0x00ffffff-no-rj",Zee Tv HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lkznaLJa_gOpurnDHVKrURjlFxvguKY0JChyqmlXnwsQyEGw2gqLzSc&s=10",&Tv HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://mysouq1.com:80/live/76631957/10205687/195.ts
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony Sab SD
+http://103.229.254.25:7001/play/a09s/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony Sab HD
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony Pal
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png",Colors Rishtey
+http://mysouq1.com:80/live/76631957/10205687/241.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRg1oSuoDAQFmGHa1giqpr-vn75vqBDBsJSg-VG5GXa1YKYKgllFM2Ewx&s=10",BigMagic.
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony Max HD
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMWBfdlxMo9x0Nvsup6Qx5mgCdf8yqAXO5lEwWjR5YfmpTrf0KYIyxHM&s=10",Star Gold HD
+https://delta45tatasky.akamaized.net/out/i/1633.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png",&Picture HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",&Xplor HD
+http://mysouq1.com:80/live/76631957/10205687/4082.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQwMwhXDvHCmWhK1kHBj5e1AtFJAAKHlpRxwPUJJeza6UDvPiUS9pxDPk&s=10",Star Gold Select HD
+http://119.156.228.231:9983/stream/channelid/763749110?ticket=7F7CBF5446B4658E5058760F525D6F222F0E8836&profile=pass
+#EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/f4cd232150cd1289c1fc2ef51c3d021d?impolicy=wcms_crop_resize&cropH=667&cropW=1001&xPos=100&yPos=0&width=86",Tplay Bolywood Movies
+https://tplay.live/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZg7XZEI9AoCwXrreoA5bm6QPJhdGoI_ifpNR62gwuTlc9I4jMK7EnGDg&s=10",Mtv HD
+http://starshare.online:80/live/jen12345/jen54321/4029.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMQdG4oeDNTd4f3QHObyKmLE0IX7jhnfUi2cVbb2z4TzuesCejO6_i88&s=10",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_awwcb830/def_height/2700/def_width/2700/version/100012/type/1",Discovery ID HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
+https://login.bheem.tv/bpk-tv/22076/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",Sony BBC Earth
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TwGcbqcKU6Zuxbmr8m_zF6OwF4sp757RcKLJW49GcPZG3vUeAux6dBgm&s=10",History tv
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOIAxnsoi9YxiqkpmuF28mVOaMSItYivMYwS3V-_na4nwC3lnwJLdLSx7&s=10",National Geographic
+http://mysouq1.com:80/live/76631957/10205687/98874.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9D_3FkAah7w/hqdefault.jpg",Net Jeo Wild
+http://mysouq1.com:80/live/76631957/10205687/98875.ts
+#EXTINF:-1 tvg-logo="https://www.techhive.com/wp-content/uploads/2023/10/Discovery-plus-1.png",Discovery HD
+http://mysouq1.com:80/live/76631957/10205687/98872.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4UWM9F-LQy6zwFhKsqkUfoT0BVT8z2PAs7RXD4Fu4jYwj_9iJg5MW9whN&s=10",Animal planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCsQchvXfbA2SayEz0b4NIO7_joTko_kaxnS8QV8Ky23zmmMebpfqhCY&s=10",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/1200px-Aaj_Tak_logo.svg.png",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/NEWS/Channellogo200x400.png",Abp News
+https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpWMHw1jSaNn0f4mRli64RcbbtYUtyvRse_6QnfLRVLo8Z_LRBv-IKh74qDErcGDDvrr_S68NU8ZaCYWmGNj6z0dULq2rJDZ99WbxiQ&s=10",Mr Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsG1iii9oJ0-z3ApcgFItUDrhrtRwe9IQXbzky5lMAzUhxwJSh3amxeDI&s=10",Sony Kal
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d8QNkJ7Jby9hVSTm67-E4nfbI-7CTgP262NPVGfYpoTZaxLw7uAOPxs5dJtARjEFQijsRsuiFQ=s900-c-k-c0x00ffffff-no-rj",Tv9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
