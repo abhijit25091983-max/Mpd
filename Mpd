@@ -186,7 +186,7 @@ https://m3uplay.com/leo/live.php?id=165&format=.m3u8
 #EXTINF:-1 group-title="Jio",CN+ HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=1079&format=.m3u8
+https://m3uplay.com/leo/live.php?id=625&format=.m3u8
 #EXTINF:-1 group-title="Jio",Nick HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -202,13 +202,13 @@ https://m3uplay.com/leo/live.php?id=578&format=.m3u8
 #EXTINF:-1 group-title="Jio",TLC HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=479&format=.m3u8
+https://m3uplay.com/leo/live.php?id=1657&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 #EXTINF:-1 group-title="Jio",Discovery HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=463&format=.m3u8
+https://m3uplay.com/leo/live.php?id=756&format=.m3u8
 #EXTINF:-1 group-title="Jio",Discovery ID HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
