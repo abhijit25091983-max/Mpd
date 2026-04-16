@@ -345,10 +345,10 @@ https://m3uplay.com/leo/live.php?id=808&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=190&format=.m3u8 
-#EXTINF:-1 group-title="Ji10"Star Jalsha HD 
+#EXTINF:-1 group-title="Jio",Star Jalsha HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=317&format=.m3u8 
+https://m3uplay.com/leo/live.m3u8?id=317&format=.m3u8
 #EXTINF:-1 group-title="Jio",Discovery Kids
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
