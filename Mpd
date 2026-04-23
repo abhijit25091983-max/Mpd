@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
-https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/233.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bIqh7m8AlSK-6ZrLOT2p1DFCZcJOZ9w-MxIRUnIQoehma1PkrDQ9B48&s=10",Star Jalsha HD
 http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/171457.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
@@ -337,7 +337,5 @@ https://m3uplay.com/leo/live.php?id=554&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=559&format=.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony sab
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=154&format=.m3u8
+#EXTINF:-1,Star Bharat
+https://yupptv.rkdyiptv.workers.dev/live/1295.m3u8
