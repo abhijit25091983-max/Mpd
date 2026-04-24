@@ -18,7 +18,7 @@ http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QONbgCivKKO2hVibRZtkRRvV49UY4A2Xqz19YWghsQdkFkX6YBHihfHOqby8GEc06haDQVP3=s900-c-k-c0x00ffffff-no-rj",Colors Bangla Cinema
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=1657&format=.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3492.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj",Zee Bangla Cinema
@@ -42,7 +42,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star plus HD
 https://yupptv.rkdyiptv.workers.dev/live/457.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat HD
-http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
+https://yupptv.rkdyiptv.workers.dev/live/1295.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -64,7 +64,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsG1iii9oJ0-z3ApcgFItUDrhrtRwe9IQXbzky5lMAzUhxwJSh3amxeDI&s=10",Sony Kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png",Colors Rishtey
-http://mysouq1.com:80/live/76631957/10205687/241.ts
+https://yupptv.rkdyiptv.workers.dev/live/1800.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",Zee Anmol
@@ -331,5 +331,3 @@ https://m3uplay.com/leo/live.php?id=554&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=559&format=.m3u8
-#EXTINF:-1,Star Bharat
-https://yupptv.rkdyiptv.workers.dev/live/1295.m3u8
