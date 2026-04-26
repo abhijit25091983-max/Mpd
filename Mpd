@@ -16,8 +16,6 @@ https://tplay.live/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJQVx4JulTB4pXkMntlqBiLIQEyYjAPXrQQ3gr6gIm12g2SfH4YU-HmjE&s=10",Star Bangla
 http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QONbgCivKKO2hVibRZtkRRvV49UY4A2Xqz19YWghsQdkFkX6YBHihfHOqby8GEc06haDQVP3=s900-c-k-c0x00ffffff-no-rj",Colors Bangla Cinema
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://yupptv.rkdyiptv.workers.dev/live/3492.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
