@@ -22,7 +22,7 @@ https://yupptv.rkdyiptv.workers.dev/live/3492.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOT4iSOGtLeXD5fzjaJlWi2-RlzMTRF0HQ_LzKaYPXBamu2pF1pVeEJmk&s=10",Jalsha Movies HD
-https://allinonereborn.online/opplex/live234.php?id=245900
+http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/171505.ts
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6QgZSp1xTYXRHXrNmfB9Snrubdb6jSYQ94AYUyBfUUnVI_v4prlcsTAv&s=10",Tplay Bengali Movies
@@ -54,7 +54,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lkznaLJa_gOpurnDHVKrURjlFxvguKY0JChyqmlXnwsQyEGw2gqLzSc&s=10",&Tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
+http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/33472.ts
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony Sab SD
 http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony Sab HD
@@ -64,7 +64,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsG1iii9oJ0-z3ApcgFItUDrhrtRwe9IQXbzky5lMAzUhxwJSh3amxeDI&s=10",Sony Kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png",Colors Rishtey
-https://yupptv.rkdyiptv.workers.dev/live/1800.m3u8
+http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/33597.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",Zee Anmol
@@ -125,5 +125,3 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Crime petrol
-https://allinonereborn.online/opplex/live234.php?id=345742
