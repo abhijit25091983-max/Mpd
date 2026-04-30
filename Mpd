@@ -38,11 +38,7 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d8QNkJ7Jby9hVSTm67-E4nfbI-7CTgP262NPVGfYpoTZaxLw7uAOPxs5dJtARjEFQijsRsuiFQ=s900-c-k-c0x00ffffff-no-rj",Tv9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star plus HD
-http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/97524.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star plus HD
-http://supzak.xyz:80/live/GGU6FMB/NFW2ZCZbzP/1019855.ts
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat HD
-http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/132006.ts
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_PLUS_HD&uid=999&pass=999
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat HD
 http://supzak.xyz:80/live/GGU6FMB/NFW2ZCZbzP/1019858.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
@@ -123,35 +119,3 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
-http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
-http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
-#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
-http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjuvvjsLuU3a0OfGPJGkEm_1v4jlbfAuxTUIjJFPEtw&s=10",Star Gold Romance
-http://119.156.228.231:9983/stream/channelid/285724856?ticket=28B965E14158AFB6437E73BBA01688900FBC7933&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMWBfdlxMo9x0Nvsup6Qx5mgCdf8yqAXO5lEwWjR5YfmpTrf0KYIyxHM&s=10",Star Gold HD
-http://119.156.228.231:9983/stream/channelid/363433704?ticket=189E0AA298C7B54C936D95E9A18001447AC0F475&profile=pass
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony sab hd
-http://119.156.228.231:9983/stream/channelid/1467177652?ticket=075B6D53329221C5EF925EC738B9B84E4F620857&profile=pass
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment
-http://119.156.228.231:9983/stream/channelid/148905550?ticket=F35ECCA5F0A283119D7561DDC0A2C7884B44F4EB&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQwMwhXDvHCmWhK1kHBj5e1AtFJAAKHlpRxwPUJJeza6UDvPiUS9pxDPk&s=10",Star Gold Select HD
-http://119.156.228.231:9983/stream/channelid/763749110?ticket=7F7CBF5446B4658E5058760F525D6F222F0E8836&profile=pass
-#EXTINF:-1,Star Plus
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276912&extension=ts
-#EXTINF:-1,Star Bharat HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276909&extension=ts
-#EXTINF:-1,Star Gold HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276910&extension=ts
-#EXTINF:-1,Star Sports 1 HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276730&extension=ts
-#EXTINF:-1,Star Sports 1 Hindi HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276731&extension=ts
-#EXTINF:-1,Star Utsav
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276913&extension=ts
-#EXTINF:-1,Sony HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276915&extension=ts
-#EXTINF:-1,Sony Sab HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276920&extension=ts
