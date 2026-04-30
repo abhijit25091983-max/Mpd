@@ -87,10 +87,6 @@ https://delta45tatasky.akamaized.net/out/i/1633.mpd
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png",&Picture HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjuvvjsLuU3a0OfGPJGkEm_1v4jlbfAuxTUIjJFPEtw&s=10",Star Gold Romance
-http://119.156.228.231:9983/stream/channelid/285724856?ticket=28B965E14158AFB6437E73BBA01688900FBC7933&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQwMwhXDvHCmWhK1kHBj5e1AtFJAAKHlpRxwPUJJeza6UDvPiUS9pxDPk&s=10",Star Gold Select HD
-http://119.156.228.231:9983/stream/channelid/763749110?ticket=7F7CBF5446B4658E5058760F525D6F222F0E8836&profile=pass
 #EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/f4cd232150cd1289c1fc2ef51c3d021d?impolicy=wcms_crop_resize&cropH=667&cropW=1001&xPos=100&yPos=0&width=86",Tplay Bolywood Movies
 https://tplay.live/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZg7XZEI9AoCwXrreoA5bm6QPJhdGoI_ifpNR62gwuTlc9I4jMK7EnGDg&s=10",Mtv HD
@@ -143,3 +139,19 @@ http://119.156.228.231:9983/stream/channelid/1467177652?ticket=075B6D53329221C5E
 http://119.156.228.231:9983/stream/channelid/148905550?ticket=F35ECCA5F0A283119D7561DDC0A2C7884B44F4EB&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQwMwhXDvHCmWhK1kHBj5e1AtFJAAKHlpRxwPUJJeza6UDvPiUS9pxDPk&s=10",Star Gold Select HD
 http://119.156.228.231:9983/stream/channelid/763749110?ticket=7F7CBF5446B4658E5058760F525D6F222F0E8836&profile=pass
+#EXTINF:-1 group-title="Mac",Star Plus
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276912&extension=ts
+#EXTINF:-1 group-title="Mac",Star Bharat HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276909&extension=ts
+#EXTINF:-1 group-title="Mac",Star Gold HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276910&extension=ts
+#EXTINF:-1 group-title="Mac",Star Sports 1 HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276730&extension=ts
+#EXTINF:-1 group-title="Mac",Star Sports 1 Hindi HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276731&extension=ts
+#EXTINF:-1,Star Utsav
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276913&extension=ts
+#EXTINF:-1,Sony HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276915&extension=ts
+#EXTINF:-1,Sony Sab HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276920&extension=ts
