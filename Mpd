@@ -43,6 +43,8 @@ http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/97524.ts
 http://supzak.xyz:80/live/GGU6FMB/NFW2ZCZbzP/1019855.ts
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat HD
 http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/132006.ts
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat HD
+http://supzak.xyz:80/live/GGU6FMB/NFW2ZCZbzP/1019858.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
 #KODIPROP:inputstream.adaptive.license_type=clearkey
