@@ -36,7 +36,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star plus HD
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
+#EXTVLCOPT:http-referrer=https://b4uplay.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009246&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yawyROd5jQqRiXHdmttib1ZhZTZ_flA4ACjPpNNdrVFC_J8NWmrlI-Se97YMaCJSvId4s7eV=s900-c-k-c0x00ffffff-no-rj",Zee Tv HD
@@ -48,9 +50,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png",Sony Sab SD
 http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png",Sony Sab HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
+#EXTVLCOPT:http-referrer=https://b4uplay.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009248&e=.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony Pal
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
+#EXTVLCOPT:http-referrer=https://b4uplay.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009273
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",Zee Anmol
@@ -58,7 +64,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRg1oSuoDAQFmGHa1giqpr-vn75vqBDBsJSg-VG5GXa1YKYKgllFM2Ewx&s=10",BigMagic.
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony Max HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
+#EXTVLCOPT:http-referrer=https://b4uplay.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009247&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png",Zee Cinema HD
@@ -80,7 +88,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
 https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",Sony BBC Earth
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
+#EXTVLCOPT:http-referrer=https://b4uplay.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009252
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TwGcbqcKU6Zuxbmr8m_zF6OwF4sp757RcKLJW49GcPZG3vUeAux6dBgm&s=10",History tv
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOIAxnsoi9YxiqkpmuF28mVOaMSItYivMYwS3V-_na4nwC3lnwJLdLSx7&s=10",National Geographic
@@ -99,52 +109,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeE5_zzDVHXc5CHojHYjTRO89JesM9Hu5AXUv2hm3QMEcXjU96oJZE48&s=10",Abp News
 https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=",Sony TV HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009246&e=.m3u8
-
-
-#EXTINF:-1 tvg-logo=",Sony Max HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009247&e=.m3u8
-
-#EXTINF:-1 tvg-logo=",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009248&e=.m3u8
-
-#EXTINF:-1 tvg-logo=",Sony BBC Earth HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009252
-
-#EXTINF:-1 tvg-logo=",Sony Pix HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnwqMLcazq1HCChUbXdHlug2qeNgRk60LKJ3kcHsLzkv-UaTeeUY54VJ&s=10",Sony Pix HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009258&e=.m3u8
-
-
-#EXTINF:-1 tvg-logo=",Sony Max
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009249
-
-
-
-
-#EXTINF:-1 tvg-logo=",Sony Wah
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009253
-
-#EXTINF:-1 tvg-logo=",Sony Pal
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009273
-
-
