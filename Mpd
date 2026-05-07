@@ -34,11 +34,11 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d8QNkJ7Jby9hVSTm67-E4nfbI-7CTgP262NPVGfYpoTZaxLw7uAOPxs5dJtARjEFQijsRsuiFQ=s900-c-k-c0x00ffffff-no-rj",Tv9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star plus HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276912&extension=ts
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_PLUS_HD&uid=999&pass=999
 #EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2023/04/STAR-BHARAT-HD.png",Star Bharat HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276909&extension=ts
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD&uid=999&pass=999
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276925&extension=ts
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_HD&uid=999&pass=999
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
@@ -52,7 +52,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lkznaLJa_gOpurnDHVKrURjlFxvguKY0JChyqmlXnwsQyEGw2gqLzSc&s=10",&Tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png",Sony Sab SD
-http://103.229.254.25:7001/play/a09s/index.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png",Sony Sab HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
