@@ -11,8 +11,8 @@ http://103.159.180.34:5001/live/698.m3u8
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/08/21/89/082189d864caddc9aeda6bd623afe73f.jpg",Gopal Bhar
-https://tplay.live/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
+https://allinonereborn.online/opplex/live128.php?id=109951
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj",Zee Bangla Cinema
