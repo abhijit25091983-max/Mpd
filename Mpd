@@ -15,31 +15,31 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 http://149.71.34.166:8002/play/a01w/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png",Cine Jomjomat
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcnYFrfYm4GzkKCqTyQqhc0HCtje_dfPK6zaNz4LwGA&s=10",Republic Bangla
 https://cdn-4.pishow.tv/live/270/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
 http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony Entertainment HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009246&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yawyROd5jQqRiXHdmttib1ZhZTZ_flA4ACjPpNNdrVFC_J8NWmrlI-Se97YMaCJSvId4s7eV=s900-c-k-c0x00ffffff-no-rj",Zee Tv HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee Tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lkznaLJa_gOpurnDHVKrURjlFxvguKY0JChyqmlXnwsQyEGw2gqLzSc&s=10",&Tv HD
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&Tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png",Sony Sab HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009248&e=.m3u8
@@ -53,21 +53,21 @@ https://b4uplay.com/sliv/stream.m3u8?id=1000009273
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRg1oSuoDAQFmGHa1giqpr-vn75vqBDBsJSg-VG5GXa1YKYKgllFM2Ewx&s=10",BigMagic.
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony Max HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009247&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMWBfdlxMo9x0Nvsup6Qx5mgCdf8yqAXO5lEwWjR5YfmpTrf0KYIyxHM&s=10",Star Gold HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png",&Picture HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Picture HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMQdG4oeDNTd4f3QHObyKmLE0IX7jhnfUi2cVbb2z4TzuesCejO6_i88&s=10",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -97,25 +97,13 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeE5_zzDVHXc5CHojHYjTRO89JesM9Hu5AXUv2hm3QMEcXjU96oJZE48&s=10",Abp News
 https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
-http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 1 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 1 FHD
-https://allinonereborn.online/opplex/live128.php?id=389110
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 2 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 2 FHD
-https://allinonereborn.online/opplex/live128.php?id=389111
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 3 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 3 FHD
-https://allinonereborn.online/opplex/live128.php?id=389112
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 4 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 4 FHD
-https://allinonereborn.online/opplex/live128.php?id=389113
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 5 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 5 FHD
-https://allinonereborn.online/opplex/live128.php?id=389114
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 6 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 6 FHD
-https://allinonereborn.online/opplex/live128.php?id=389115
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 7 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 7 FHD
-https://allinonereborn.online/opplex/live128.php?id=389116
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 8 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 8 FHD
-https://allinonereborn.online/opplex/live128.php?id=389117
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 9 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 9 FHD
-https://allinonereborn.online/opplex/live128.php?id=389118
-#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 10 FHD" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 10 FHD
-https://allinonereborn.online/opplex/live128.php?id=389119
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+http://starshare.fans:80/live/jen12345/jen54321/221.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL Shatrak 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL Shatrak 24x7
+https://allinonereborn.online/opplex/live128.php?id=340874
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL DIAL100 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL DIAL100 24x7
+https://allinonereborn.online/opplex/live128.php?id=340875
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL 2.0 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL 2.0 24x7
+https://allinonereborn.online/opplex/live128.php?id=340876
+#EXTINF:-1 tvg-id="" tvg-name="Crime Patrol Shatrak S2 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",Crime Patrol Shatrak S2 24x7
+https://allinonereborn.online/opplex/live128.php?id=345742
