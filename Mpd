@@ -98,7 +98,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeE5_zzDVHXc5CHojHYjTRO89JesM9Hu5AXUv2hm3QMEcXjU96oJZE48&s=10",Abp News
 https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
+http://103.253.18.58:8000/play/a00l
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL Shatrak 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL Shatrak 24x7
 https://allinonereborn.online/opplex/live128.php?id=340874
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL DIAL100 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL DIAL100 24x7
