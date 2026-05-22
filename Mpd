@@ -133,6 +133,9 @@ http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 https://yupptv.rkdyiptv.workers.dev/live/457.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_PLUS_HD&uid=999&pass=999
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
 https://yupptv.rkdyiptv.workers.dev/live/1295.m3u8
 
