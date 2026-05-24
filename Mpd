@@ -141,3 +141,15 @@ https://sliv.cr7x.workers.dev/iptv/?c=73746172706c7573
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 https://allinonereborn.online/opplex/live877.php?id=66208
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
+https://allinonereborn.online/opplex/live877.php?id=340874
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL Shatrak 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL Shatrak 24x7
+https://allinonereborn.online/opplex/live877.php?id=340874
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL DIAL100 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL DIAL100 24x7
+https://allinonereborn.online/opplex/live877.php?id=340875
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL 2.0 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL 2.0 24x7
+https://allinonereborn.online/opplex/live877.php?id=340876
+#EXTINF:-1 tvg-id="" tvg-name="Crime Patrol Shatrak S2 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",Crime Patrol Shatrak S2 24x7
+https://allinonereborn.online/opplex/live877.php?id=345742
