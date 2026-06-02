@@ -258,3 +258,31 @@ https://allinonereborn.online/push4k/live44.php?id=175
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com"
 #KODIPROP:mimetype=application/dash+xml
 https://yowaimo.in/ZioGarmTara-JTV/317/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="317" tvg-name="Star Jalsha HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" tvg-language="Bengali" group-title="Entertainment", Star Jalsha HD
+#EXTVLCOPT:http-referrer=https://tulnit.com
+#EXTVLCOPT:http-origin=https://tulnit.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:mimetype=application/dash+xml
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplus_live_https/index.m3u8
+#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" tvg-language="Marathi" group-title="Entertainment", Star Pravah HD
+#EXTVLCOPT:http-referrer=https://tulnit.com
+#EXTVLCOPT:http-origin=https://tulnit.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:mimetype=application/dash+xml
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharat_live_https/index.m3u8
+#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" tvg-language="Tamil" group-title="Entertainment", Star Vijay HD
+http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_VIJAY_HD&uid=999&pass=999
+#EXTINF:-1 tvg-id="370" tvg-name="Suvarna HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_HD.png" tvg-language="Kannada" group-title="Entertainment", Suvarna HD
+#EXTVLCOPT:http-referrer=https://tulnit.com
+#EXTVLCOPT:http-origin=https://tulnit.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:mimetype=application/dash+xml
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
+
+
