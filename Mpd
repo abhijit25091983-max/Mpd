@@ -249,3 +249,12 @@ https://allinonereborn.online/push4k/live44.php?id=173
 
 #EXTINF:-1 tvg-id="175" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/146.jpg" group-title="INDIAN CHANNELS",MTV INDIA
 https://allinonereborn.online/push4k/live44.php?id=175
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
+#EXTVLCOPT:http-referrer=https://tulnit.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com"
+#KODIPROP:mimetype=application/dash+xml
+https://yowaimo.in/ZioGarmTara-JTV/317/manifest.mpd
