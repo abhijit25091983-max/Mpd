@@ -278,4 +278,10 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" tvg-language="Tamil" group-title="Entertainment", Star Vijay HD
 http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_VIJAY_HD&uid=999&pass=999
 #EXTINF:-1 tvg-id="370" tvg-name="Suvarna HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_HD.png" tvg-language="Kannada" group-title="Entertainment", Suvarna HD
-#EXTVLCOPT:http-referrer=https:/
+#EXTVLCOPT:http-refergroup-titleo
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmP1fLuP57pd92LyzK6X2dbAZZEkWrypPDnMF2PCAYg5odogrQmmmaUJf5&s=10",Zee Bangla
+https://terminal-jio.07in.workers.dev/live/test/test/1132/index.mpd
