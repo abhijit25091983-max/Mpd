@@ -105,6 +105,10 @@ https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/play
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 http://41.205.64.66/STAR-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/97524.ts
+
 #EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png",Sony YAY SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",Sony Pix HD
