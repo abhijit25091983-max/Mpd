@@ -44,9 +44,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&Tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009248&e=.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248&e=.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony Pal
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
@@ -104,12 +102,14 @@ https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/play
 #EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",SONY Max SD SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://41.205.64.66/STAR-PLUS/index.m3u8
-
+http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/97524.ts
-
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
 #EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png",Sony YAY SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",Sony Pix HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=154&format=.m3u8
