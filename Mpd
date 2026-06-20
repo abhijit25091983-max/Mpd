@@ -45,31 +45,29 @@ http://103.159.180.34:5001/live/279.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
 https://techtraveleat.in/leo/live.php?id=154&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj",Sony Aath
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony Entertainment HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony Pal
+#EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",SET HD SonyLiv
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony SAB HD SonyLiv
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
+#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony PAL SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",SONY Max SD
+#EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",SONY Max SD SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png",Sony YAY
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png",Sony MAX HD SonyLiv
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
+#EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png",Sony MAX 2 SonyLiv
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878
+#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png",Sony WAH SonyLiv
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009253
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" tvg-language="Hindi" tvg-type="Sports",Sony Sports Hindi SonyLiv
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009278
+#EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png",Sony YAY SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj",Sony Aath
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",Sony Pix HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",Sony BBC Earth
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/32_254.png",Sony BBC Earth
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD
