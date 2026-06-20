@@ -10,6 +10,9 @@ http://103.159.180.34:5001/live/698.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NrEByTwCb2-4HXn1dFjB5b0v_vTLWN1b5RcRppBQVx51XbCkbAJdV6Yv&s=10",Zee Bangla Sonar
 http://103.159.180.34:5001/live/3476.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejdGL3tER70Fb7eJRFJO1z6ulzwnxu-l0dEYALHqSHOAbjge8Jtygiqte&s=10",Colors Risthey
+http://103.159.180.34:5001/live/279.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
@@ -19,6 +22,21 @@ https://techtraveleat.in/leo/live.php?id=756&format=.m3u8
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
 https://techtraveleat.in/leo/live.php?id=1657&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=144&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=154&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=1145&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
@@ -31,19 +49,6 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
 http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
-
-#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.php?id=144&format=.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejdGL3tER70Fb7eJRFJO1z6ulzwnxu-l0dEYALHqSHOAbjge8Jtygiqte&s=10",Colors Risthey
-http://103.159.180.34:5001/live/279.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.php?id=154&format=.m3u8
 
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",SET HD SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
@@ -69,11 +74,6 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/32_254.png",Sony BBC Earth
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.php?id=1145&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMQdG4oeDNTd4f3QHObyKmLE0IX7jhnfUi2cVbb2z4TzuesCejO6_i88&s=10",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
