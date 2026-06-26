@@ -324,7 +324,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtv24x72/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_key=b1179148ecf241de8111f216f4540f2c:bbca34aa96b04187b4e6854cb03a1cc5
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation2/default/main.mpd
 
+
+
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOOLl00ioOOLiiL1lO0Ioo
+https://alex4528.site/jplus/lOOLl00ioOOLiiL1lO0Ioo/manifest.mpd
