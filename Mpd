@@ -328,6 +328,4 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation2/default/main.mpd
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOOLl00ioOOLiiL1lO0Ioo/manifest.mpd
+http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
