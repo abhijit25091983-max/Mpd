@@ -329,4 +329,4 @@ https://rkdy-mac.vercel.app/api/mac/playlist.m3u?action=stream&id=480585&token=r
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
+https://rkdy-mac.vercel.app/api/mac/playlist.m3u?action=stream&id=3070&token=rkdyiptv&key=rkdy
