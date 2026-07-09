@@ -48,9 +48,6 @@ https://cdn-4.pishow.tv/live/270/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
-http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
-
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",SET HD SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony SAB HD SonyLiv
@@ -327,10 +324,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation2/default/main.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Khichdi_Returns_poster.jpg",Khichdi 
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7133&deviceMac=00:1A:79:4A:02:91
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
-http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
-http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
 http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjuvvjsLuU3a0OfGPJGkEm_1v4jlbfAuxTUIjJFPEtw&s=10",Star Gold Romance
@@ -343,6 +336,10 @@ http://119.156.228.231:9983/stream/channelid/1467177652?ticket=075B6D53329221C5E
 http://119.156.228.231:9983/stream/channelid/148905550?ticket=F35ECCA5F0A283119D7561DDC0A2C7884B44F4EB&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQwMwhXDvHCmWhK1kHBj5e1AtFJAAKHlpRxwPUJJeza6UDvPiUS9pxDPk&s=10",Star Gold Select HD
 http://119.156.228.231:9983/stream/channelid/763749110?ticket=7F7CBF5446B4658E5058760F525D6F222F0E8836&profile=pass
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
+http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
+http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 https://ranapkbd.site/RANAPK33k/TVD/play.php?id=671571
