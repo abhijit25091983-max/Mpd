@@ -9,50 +9,50 @@ http://103.159.180.34:5001/live/698.m3u8
 http://103.159.180.34:5001/live/3476.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejdGL3tER70Fb7eJRFJO1z6ulzwnxu-l0dEYALHqSHOAbjge8Jtygiqte&s=10",Colors Risthey
 http://103.159.180.34:5001/live/279.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.php?id=756&format=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5_8FZ2kQ8c18f1FZ7RXvvl5Dl4EkY6xZopwGgIjQqRMCZ2jHqqOkx64&s=10",Colors Bangla Cinema
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.php?id=1657&format=.m3u8
-#EXTINF:-1 tvg-id="406" tvg-logo="https://tatalogo.pages.dev/406.png",MTV HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi0ILIOLoOi1iiL1LIll0l/manifest.mpd
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
-https://uneeq2.deadpooll.workers.dev/playlist?id=77374
+https://alex4528.site/jplus/oOOLoiI1oiOL00o1LIio/manifest.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",Colors Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/LI0I00L0LI0IiiiLLIi100/manifest.mpd
+#EXTINF:-1 tvg-id="406" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj",Sony Aath
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcnYFrfYm4GzkKCqTyQqhc0HCtje_dfPK6zaNz4LwGA&s=10",Republic Bangla
 https://cdn-4.pishow.tv/live/270/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",SET HD SonyLiv
+#EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",SET HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
-#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony SAB HD SonyLiv
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
-#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony PAL SonyLiv
+#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony PAL
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
-#EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",SONY Max SD SonyLiv
+#EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",SONY Max SD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
-#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png",Sony MAX HD SonyLiv
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony MAX HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
-#EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png",Sony MAX 2 SonyLiv
+#EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png",Sony MAX 2
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878
-#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png",Sony WAH SonyLiv
+#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png",Sony WAH
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009253
-#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" tvg-language="Hindi" tvg-type="Sports",Sony Sports Hindi SonyLiv
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" tvg-language="Hindi" tvg-type="Sports",Sony Sports
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009278
-#EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png",Sony YAY SonyLiv
+#EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png",Sony YAY
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj",Sony Aath
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
-#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",Sony Pix HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/32_254.png",Sony BBC Earth
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",Sony Pix HD
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/oi0ILIOLoOi1iiL1LIll0l/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMQdG4oeDNTd4f3QHObyKmLE0IX7jhnfUi2cVbb2z4TzuesCejO6_i88&s=10",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TwGcbqcKU6Zuxbmr8m_zF6OwF4sp757RcKLJW49GcPZG3vUeAux6dBgm&s=10",History tv
@@ -266,15 +266,15 @@ https://amg00644-amg00644c1-watcho-apac-8615.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c4e033a3b0e846bc9acc4d6bc710a164:e12b5d3b78e0448aa9e3b28440207a3b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtv24x72/default/main.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Khichdi_Returns_poster.jpg",Khichdi
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
+https://uneeq2.deadpooll.workers.dev/playlist?id=77374
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
 http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjuvvjsLuU3a0OfGPJGkEm_1v4jlbfAuxTUIjJFPEtw&s=10",Star Gold Romance
 http://119.156.228.231:9983/stream/channelid/285724856?ticket=28B965E14158AFB6437E73BBA01688900FBC7933&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMWBfdlxMo9x0Nvsup6Qx5mgCdf8yqAXO5lEwWjR5YfmpTrf0KYIyxHM&s=10",Star Gold HD
 http://119.156.228.231:9983/stream/channelid/363433704?ticket=189E0AA298C7B54C936D95E9A18001447AC0F475&profile=pass
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png",Sony sab hd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony sab hd
 http://119.156.228.231:9983/stream/channelid/1467177652?ticket=075B6D53329221C5EF925EC738B9B84E4F620857&profile=pass
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment
 http://119.156.228.231:9983/stream/channelid/148905550?ticket=F35ECCA5F0A283119D7561DDC0A2C7884B44F4EB&profile=pass
@@ -285,4 +285,4 @@ http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F464
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
 http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-https://ranapkbd.site/RANAPK33k/TVD/play.php?id=671571
+https://fusion-rkdyiptv.vercel.app/api/rkdyiptv/playlist.m3u?action=stream&id=3070&token=rkdyiptv&key=rkdy
