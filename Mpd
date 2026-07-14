@@ -283,6 +283,6 @@ http://119.156.228.231:9983/stream/channelid/763749110?ticket=7F7CBF5446B4658E50
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat HD
 http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
-http://119.156.228.231:9983/stream/channelid/95243181?ticket=1BF80E350E6799479D9084B3DEE0CAF10BB60C82&profile=pass
+https://fusion-rkdyiptv.vercel.app/api/rkdyiptv/playlist.m3u?action=stream&id=3071&token=rkdyiptv&key=rkdy
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 https://fusion-rkdyiptv.vercel.app/api/rkdyiptv/playlist.m3u?action=stream&id=3070&token=rkdyiptv&key=rkdy
