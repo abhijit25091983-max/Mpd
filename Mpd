@@ -284,5 +284,6 @@ http://119.156.228.231:9983/stream/channelid/763749110?ticket=7F7CBF5446B4658E50
 http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
 https://uneeq2.deadpooll.workers.dev/playlist?id=3071
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://dsmqbfez.pardns.com:80/live/6CTB9BKG/4Q7Y9DFW/97524.ts
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Plus HD USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
