@@ -292,7 +292,7 @@ https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/playlist.m3u8
 https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
-http://202.70.146.135:8000/play/a009/index.m3u8
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Star Plus HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
