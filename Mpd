@@ -267,33 +267,27 @@ https://amg00644-amg00644c1-watcho-apac-8615.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_key=c4e033a3b0e846bc9acc4d6bc710a164:e12b5d3b78e0448aa9e3b28440207a3b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtv24x72/default/main.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
-https://uneeq2.deadpooll.workers.dev/playlist?id=77374
+https://stream.kliv.in/ROPX/opp233/221256.m3u8
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
 http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjuvvjsLuU3a0OfGPJGkEm_1v4jlbfAuxTUIjJFPEtw&s=10",Star Gold Romance
 http://119.156.228.231:9983/stream/channelid/285724856?ticket=28B965E14158AFB6437E73BBA01688900FBC7933&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Bharat HD
+#EXTINF:-1,Star Bharat HD
 https://stream.kliv.in/ROPX/opp233/109951.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Yupp USA
+#EXTINF:-1,Colors Yupp USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Bharat HD USA
+#EXTINF:-1,Star Bharat HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharatus_us_https/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Bharat
+#EXTINF:-1,Utsav Bharat
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Plus
+#EXTINF:-1,Utsav Plus
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
 http://stb07-v2.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_PLUS_HD&uid=le-beta&pass=maar-moj
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Plus HD USA
+#EXTINF:-1,Star Plus HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
