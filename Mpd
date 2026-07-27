@@ -272,8 +272,8 @@ https://uneeq2.deadpooll.workers.dev/playlist?id=77374
 http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjuvvjsLuU3a0OfGPJGkEm_1v4jlbfAuxTUIjJFPEtw&s=10",Star Gold Romance
 http://119.156.228.231:9983/stream/channelid/285724856?ticket=28B965E14158AFB6437E73BBA01688900FBC7933&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMWBfdlxMo9x0Nvsup6Qx5mgCdf8yqAXO5lEwWjR5YfmpTrf0KYIyxHM&s=10",Star Gold HD
-http://119.156.228.231:9983/stream/channelid/363433704?ticket=189E0AA298C7B54C936D95E9A18001447AC0F475&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Bharat HD
+https://stream.kliv.in/ROPX/opp233/109951.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Yupp USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
