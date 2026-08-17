@@ -3,12 +3,12 @@
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmP1fLuP57pd92LyzK6X2dbAZZEkWrypPDnMF2PCAYg5odogrQmmmaUJf5&s=10",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
 http://103.159.180.34:5001/live/698.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NrEByTwCb2-4HXn1dFjB5b0v_vTLWN1b5RcRppBQVx51XbCkbAJdV6Yv&s=10",Zee Bangla Sonar
 http://103.159.180.34:5001/live/3476.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejdGL3tER70Fb7eJRFJO1z6ulzwnxu-l0dEYALHqSHOAbjge8Jtygiqte&s=10",Colors Risthey
-http://103.159.180.34:5001/live/279.m3u8
 
 #EXTINF:-1 tvg-id="317" tvg-name="Star Jalsha HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" tvg-language="Bengali" group-title="Entertainment", Star Jalsha HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
@@ -24,20 +24,29 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/oOOLoiI1oiOL00o1LIio/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",Colors Bangla Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/LI0I00L0LI0IiiiLLIi100/manifest.mpd
+
 #EXTINF:-1 tvg-id="406" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD
 http://stb07-v2.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_JALSHA_MOVIES_HD&uid=le-beta&pass=maar-moj
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj",Sony Aath
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcnYFrfYm4GzkKCqTyQqhc0HCtje_dfPK6zaNz4LwGA&s=10",Republic Bangla
 https://cdn-4.pishow.tv/live/270/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejdGL3tER70Fb7eJRFJO1z6ulzwnxu-l0dEYALHqSHOAbjge8Jtygiqte&s=10",Colors Risthey
+http://103.159.180.34:5001/live/279.m3u8
+
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",SET HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB HD
@@ -60,6 +69,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",Sony Pix HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
