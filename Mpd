@@ -312,15 +312,5 @@ https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccd
 #EXTHTTP:{"cookie":"__hdnea__=st=1786830361~exp=1786851961~acl=/*~hmac=6258b03ba0d3a897e661d7f692b5f32ec4d50ae2555007f88f624eec47735698"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?|Cookie=__hdnea__=st=1786830361~exp=1786851961~acl=/*~hmac=6258b03ba0d3a897e661d7f692b5f32ec4d50ae2555007f88f624eec47735698&xxx=%7Ccookie=__hdnea__=st=1786830361~exp=1786851961~acl=/*~hmac=6258b03ba0d3a897e661d7f692b5f32ec4d50ae2555007f88f624eec47735698
 
-
-
-#EXTINF:-1 tvg-id=”154” tvg-name=”Sony SAB SD” tvg-logo=https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png group-title=”Entertainment”,Sony SAB SD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/154/
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (StreamFlex;Android 16) JioTvMobile
-#EXTHTTP:{“cookie”:”__hdnea__=st=1786806967~exp=1786828567~acl=/*~hmac=d0404984c92c1e8e55dd52fb5bb31d61de5ca40fdeed70f2c471059c389e7501”}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?|Cookie=__hdnea__=st=1786806967~exp=1786828567~acl=/*~hmac=d0404984c92c1e8e55dd52fb5bb31d61de5ca40fdeed70f2c471059c389e7501&xxx=%7Ccookie=__hdnea__=st=1786806967~exp=1786828567~acl=/*~hmac=d0404984c92c1e8e55dd52fb5bb31d61de5ca40fdeed70f2c471059c389e7501
-
-
-
+#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
+http://skyfilex.fun:80/live/252234755968/537566565259/221.ts
