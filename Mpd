@@ -314,3 +314,28 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=671571&e
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Hindi Movies",The Movie Club
+https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/7fb7f991-65af-467f-b5ab-df8d28efa37d/2.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20251126T004309SQUARE.png" group-title="Hindi Movies",The Movie Club+2
+https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",YYZ TV
+http://cdn12.henico.net:8080/live/sursangam/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 1 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75500
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 2 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75503
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 3 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75504
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 4 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75508
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 5 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75509
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 6 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75510
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 7 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75511
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 8 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75513
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 9 (tata)
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75514
