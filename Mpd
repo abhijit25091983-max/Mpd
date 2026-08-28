@@ -70,10 +70,8 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",Sony Pix HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi0ILIOLoOi1iiL1LIll0l/manifest.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mtv
+https://vods2.aynaott.com/hindimovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMQdG4oeDNTd4f3QHObyKmLE0IX7jhnfUi2cVbb2z4TzuesCejO6_i88&s=10",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TwGcbqcKU6Zuxbmr8m_zF6OwF4sp757RcKLJW49GcPZG3vUeAux6dBgm&s=10",History tv
@@ -288,7 +286,7 @@ https://amg00644-amg00644c1-watcho-apac-8615.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_key=c4e033a3b0e846bc9acc4d6bc710a164:e12b5d3b78e0448aa9e3b28440207a3b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtv24x72/default/main.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab SD
-https://stream.kliv.in/ROPX/opp233/221256.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
 http://119.156.228.231:9983/stream/channelid/2057230362?ticket=1E3A2853EE9A3D79BCE93E0CD86DC3C2CB673149&profile=pass
 
@@ -321,21 +319,3 @@ https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",YYZ TV
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 1 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75500
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 2 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75503
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 3 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75504
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 4 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75508
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 5 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75509
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 6 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75510
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 7 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75511
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 8 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75513
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 9 (tata)
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75514
