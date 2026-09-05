@@ -16,11 +16,11 @@ http://103.159.180.34:5001/live/3476.m3u8
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
+http://skyfilex.fun:80/live/252234755968/537566565259/23306.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla sd
 http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=225712&extension=ts&play_token=DP4mrvtHF6
 #EXTINF:-1 tvg-id="406" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155771.m3u8
+http://skyfilex.fun:80/live/252234755968/537566565259/23304.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj",Sony Aath
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",Cine Jomjomat
@@ -288,178 +288,12 @@ https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=671571&extension=ts&play_token=CMAlUSxDAe
+http://59.103.38.46:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=280767&extension=ts&play_token=dOyi1G2Gcj
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=671571&extension=ts&play_token=CMAlUSxDAe
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png",The Movie Club
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/7fb7f991-65af-467f-b5ab-df8d28efa37d/2.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20251126T004309SQUARE.png",The Movie Club+2
 https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
 #EXTINF:-1,YYZ TV
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
-
-
-
-# ===== ASIA | 24/7 INDIA =====
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", ##### PREMIUM INDIA #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636198.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HOTSTAR HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636448.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ZEE5 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636384.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| AMIR KHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1024826.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SALMAN KHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1024830.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| JOHN ABRAHAM
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1024828.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| CLASSIC
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1024827.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ALTBALAJI SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636197.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| EROS NOW SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636195.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HUNGAMA SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636192.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| JIO SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636191.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| MX PLAYER SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636190.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SONYLIV SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636188.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| VIU SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636186.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| VOOT SERIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636185.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CLASSIC ACTION
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636182.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CLASSIC COMEDY
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636181.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CLASSIC CRIME
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636180.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CLASSIC MUSICAL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636176.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CLASSIC ROMANCE
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636175.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CLASSIC THRILLER
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636174.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CLASSIC DRAMA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636193.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI CRIME
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636173.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI FAMILY
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636169.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI FANTASY
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636168.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI MUSICAL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636167.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI MIX
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636166.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636165.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HINDI WAR
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636162.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAMAROO HINDI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636160.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAMAROO HINDI 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636159.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAMAROO HINDI 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636158.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAMAROO HINDI 4
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636156.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAMAROO HINDI 5
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636155.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SOLO BLOCKBUSTER
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636154.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SOLO HINDI MOVIES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636153.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SOLO HINDI MOVIES 5
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636148.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ABHISHEK BACHCHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636141.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| AKSHAYE KHANNA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636139.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| AKSHAY KUMAR
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636138.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| AKSHAY KUMAR 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1448048.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| AMITABH BACHCHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636137.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ANIL KAPOOR
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636136.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ARJUN RAMPAL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636135.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ARSHAD WARSI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636134.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| BOMAN IRANI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636132.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| DHARMENDRA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636131.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| DILIP KUMAR
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636130.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| GOVINDA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636127.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| HRITHIK ROSHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636126.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| IRRFAN KHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636125.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| JACKIE SHROFF
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636124.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| JOHAN ABRAHAM
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636123.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| RAJKUMMAR RAO
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636119.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| RISHI KAPOOR
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636118.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| RITEISH DESHMUKH
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636117.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SAIF ALI KHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636116.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SANJAY DUTT
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636114.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAH RUKH KHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636113.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAH RUKH KHAN 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1448051.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHAH RUKH KHAN 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1448663.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHARMAN JOSHI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636112.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SIDHARTH MALHOTRA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636111.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SUNNY DEOL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636109.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| VIVEK OBEROI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636108.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ALKA YAGNIK
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636107.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| ANURADHA PAUDWAL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636106.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| JUBIN NAUTIYAL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636103.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| KISHORE KUMAR 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636102.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| KUMAR SANU
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636101.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| LATA MANGESHKAR
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636100.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| LATA MANGESKHAR 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636099.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| LATA MANGESKHAR 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636098.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| MOHIT CHOHAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636095.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| MUHAMMAD ALI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636094.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| MUHAMMAD RAFI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636093.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| MUKESH
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636092.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SHREYAS TALPADE
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636089.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| SONU NIGAM
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636088.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| TALAT MAHMOOD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636086.m3u8
-#EXTINF:-1 group-title="ASIA | 24/7 INDIA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png", IN-PREM| UDIT NARAYAN
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/636085.m3u8
