@@ -271,7 +271,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtv24x72/default/main.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors HD
-http://59.103.38.46:8000/play/a00b/index.m3u8
+http://skyfilex.fun:80/live/252234755968/537566565259/195.ts
 #EXTINF:-1,Colors Yupp USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist.m3u8
