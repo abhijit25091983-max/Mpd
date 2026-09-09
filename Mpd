@@ -250,29 +250,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/channel/logos/ykaknz.png",Aaj Tak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amg00644-amg00644c3-watcho-apac-8444.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-aajtak-watchoapac/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png,The Movie Club
-
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/7fb7f991-65af-467f-b5ab-df8d28efa37d/2.m3u8
-
 #EXTINF:-1 tvg-logo=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20251126T004309SQUARE.png,The Movie Club+2
-
 https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
-
 #EXTINF:-1,YYZ TV
-
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
-
-#EXTINF:-1 tvg-logo=https://m.media-amazon.com/images/I/71PHdQxkJeL._AC_UF1000,1000_QL80_.jpg,Gopal Bhar
-
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony sab SD
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Colors%20HD.png",Colors SD
@@ -294,6 +283,3 @@ https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
 https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus SD
 http://live.balajibroadband.com:3500/live/1116.m3u8
-
-
-
