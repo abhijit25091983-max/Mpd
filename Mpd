@@ -7,7 +7,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NrEByTwCb2-4HXn1dFjB5b0v_vTLWN1b5RcRppBQVx51XbCkbAJdV6Yv&s=10",Zee Bangla Sonar
-http://103.159.180.34:5001/live/3476.m3u8
+http://27.116.22.53:5001/live/3476.m3u8
 #EXTINF:-1 tvg-id="317" tvg-name="Star Jalsha HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" tvg-language="Bengali",Star Jalsha HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
@@ -31,7 +31,7 @@ https://cdn-4.pishow.tv/live/270/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejdGL3tER70Fb7eJRFJO1z6ulzwnxu-l0dEYALHqSHOAbjge8Jtygiqte&s=10",Colors Risthey
-http://103.159.180.34:5001/live/279.m3u8
+http://27.116.22.53:5001/live/279.m3u8
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",SET HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB HD
