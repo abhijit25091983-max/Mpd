@@ -82,12 +82,3 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 
 #EXTINF:-1,Star Plus HD
 http://27.116.22.53:5001/live/1132.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://img.media.jio.com/imagespublic/66/94/301386_1683104564020_p_medium.jpg" group-title="Movies",Colors Bangla Cinema
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790493320~exp=1790514920~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=30a2b61b39d962abef8d5bcf208779e6b4757ea7cd2530ad95748f52d6973fe8
