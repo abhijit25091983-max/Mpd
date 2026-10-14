@@ -1,63 +1,85 @@
 #EXTM3U
 #EXTINF:-1,Zee Bangla
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
+
 #EXTINF:-1,Aakash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+
 #EXTINF:-1,Zee Bangla Sonar
 http://27.116.22.53:5001/live/3476.m3u8
+
 #EXTINF:-1,Sony Aath
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
+
+
 #EXTINF:-1,Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
+
 #EXTINF:-1,Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+
 #EXTINF:-1,Colors Risthey
 http://27.116.22.53:5001/live/279.m3u8
+
 #EXTINF:-1 tvg-id="SET HD",SET HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
+
 #EXTINF:-1 tvg-id="Sony Sab HD",Sony SAB HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
+
 #EXTINF:-1 tvg-id="Sony Pal",Sony PAL
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
+
 #EXTINF:-1 tvg-id="Sony Max SD",SONY Max SD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
+
 #EXTINF:-1 tvg-id="Sony Max HD",Sony MAX HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
+
 #EXTINF:-1 tvg-id="Sony Max 2",Sony MAX 2
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878
+
 #EXTINF:-1,YRF Music
 http://27.116.22.53:5001/live/2753.m3u8
+
 #EXTINF:-1,Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
-#EXTINF:-1,&TV HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
-#EXTINF:-1,&TV SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+#EXTINF:-1,Jalsha Movies HD 
+http://103.151.60.162:2122/play/a00x/index.m3u8
+
+#EXTINF:-1,Colors HD 
+http://103.151.60.162:2122/play/a02q/index.m3u8
+
 #EXTINF:-1,Zee Cinema HD 
 https://premiumplug.fun/zee/zee5.php/0-9-zeecinemahd.m3u8
+
 #EXTINF:-1,&Pictures HD
 https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
+
 #EXTINF:-1,&explore HD
 https://premiumplug.fun/zee/zee5.php/0-9-209.m3u8
+
 #EXTINF:-1,Star Bharat 
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+
 #EXTINF:-1,Star plus UK
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+
 #EXTINF:-1,Zee Comedy
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+
 #EXTINF:-1,Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+
 #EXTINF:-1,Sony Sab SD
 http://103.151.60.162:2122/play/a01q/index.m3u8
 
 #EXTINF:-1,MTV HD
 http://27.116.22.53:5001/live/1145.m3u8
+
 #EXTINF:-1,Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
