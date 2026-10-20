@@ -53,14 +53,14 @@ http://103.151.60.162:2122/play/a00x/index.m3u8
 #EXTINF:-1,Colors HD 
 http://103.151.60.162:2122/play/a02q/index.m3u8
 
-#EXTINF:-1,Zee Cinema HD 
+#EXTINF:-1,&Pictures HD
 https://premiumplug.fun/zee/zee5.php/0-9-zeecinemahd.m3u8
 
-#EXTINF:-1,&Pictures HD
-https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
+#EXTINF:-1,Zee Cinema HD 
+http://103.151.60.162:2122/play/a012/index.m3u8
 
-#EXTINF:-1,&explore HD
-https://premiumplug.fun/zee/zee5.php/0-9-209.m3u8
+#EXTINF:-1,Bangla Cenama 
+http://103.151.60.162:2122/play/a02m/index.m3u8
 
 #EXTINF:-1,Star Bharat 
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
@@ -85,11 +85,3 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 
 #EXTINF:-1,Star Plus HD
 http://38.96.178.205/STARPLUS/index.m3u8
-
-
-#EXTINF:-1 tvg-id="154" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=154
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1792166407~exp=1792188007~acl=/*~hmac=ad34993c9449b83110fa1689c0a7bdab1071f19c454e4cc1ac6c0e54ccad7033"}
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=154
