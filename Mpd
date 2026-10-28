@@ -39,12 +39,10 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
 #EXTINF:-1 tvg-id="Sony Max 2",Sony MAX 2
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878
 
-#EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="http://223.25.71.211:5001/jtvimage/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/2753
-http://223.25.71.211:5001/live/mpd/2753
+#EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="http://223.25.71.211:5001/jtvimage/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Muhttps://raw.githubusercontent.com/abhi, YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+
 
 #EXTINF:-1,Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
