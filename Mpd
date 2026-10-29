@@ -31,14 +31,8 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
 #EXTINF:-1,Sony PAL
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
 
-#EXTINF:-1,SONY Max SD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
-
 #EXTINF:-1,Sony MAX HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
-
-#EXTINF:-1,Sony MAX 2
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878
 
 #EXTINF:-1,YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
