@@ -13,15 +13,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1,Sony Aath
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
 
-
 #EXTINF:-1,Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
 
 #EXTINF:-1,Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-
-#EXTINF:-1,Colors Risthey
-http://223.25.71.211:5001/live/279.m3u8
 
 #EXTINF:-1 tvg-id="SET HD",SET HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
@@ -44,28 +40,10 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878
 #EXTINF:-1,YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-
-
 #EXTINF:-1,Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
-
-#EXTINF:-1,Jalsha Movies HD 
-http://103.151.60.162:2122/play/a00x/index.m3u8
-
-#EXTINF:-1,Colors HD 
-http://103.151.60.162:2122/play/a02q/index.m3u8
-
-#EXTINF:-1,Star Bangla 
-http://103.151.60.162:2122/play/a0f5/index.m3u8
-
-
-#EXTINF:-1,Zee Cinema HD 
-http://103.151.60.162:2122/play/a012/index.m3u8
-
-#EXTINF:-1,Bangla Cenama 
-http://103.151.60.162:2122/play/a02m/index.m3u8
 
 #EXTINF:-1,Star Bharat 
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
@@ -78,12 +56,6 @@ https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 
 #EXTINF:-1,Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-
-#EXTINF:-1,Sony Sab SD
-http://103.151.60.162:2122/play/a01q/index.m3u8
-
-#EXTINF:-1,MTV HD
-http://223.25.71.211:5001/live/1145.m3u8
 
 #EXTINF:-1,Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
