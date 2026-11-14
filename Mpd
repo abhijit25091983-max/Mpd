@@ -46,10 +46,7 @@ https://delta45tatasky.akamaized.net/out/i/1633.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 #EXTINF:-1,&Picture HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181258.ts
 
 #EXTINF:-1,Animal planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
