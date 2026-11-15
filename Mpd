@@ -41,9 +41,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
 
 #EXTINF:-1,Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200439.ts
 
 #EXTINF:-1,&Picture HD
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181258.ts
