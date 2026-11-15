@@ -75,9 +75,7 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 
 #EXTINF:-1,Colors HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200466.ts
 
 #EXTINF:-1,Zee Tv HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
