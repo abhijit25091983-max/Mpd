@@ -38,3 +38,8 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 
 #EXTINF:-1,Abp News
 https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
+
+#EXTINF:-1,Pogo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
+https://login.bheem.tv/bpk-tv/22603/output/index.mpd
