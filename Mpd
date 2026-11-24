@@ -11,12 +11,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1,Star Plus HD
 http://38.96.178.205/STARPLUS/index.m3u8
 
-#EXTINF:-1,Colors HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200466.ts
-
-#EXTINF:-1,Cine Jomjomat
-https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
-
 #EXTINF:-1,Sony Aath
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
 
@@ -29,33 +23,15 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
 #EXTINF:-1,Sony PAL
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
 
-#EXTINF:-1,Sony MAX HD
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
-
 #EXTINF:-1,Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
 
-#EXTINF:-1,Zee Cinema HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200439.ts
-
-#EXTINF:-1,&Picture HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181258.ts
-
 #EXTINF:-1,Animal planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd
-
-#EXTINF:-1,Star Bharat 
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
-
-#EXTINF:-1,Star plus UK
-https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
-
-#EXTINF:-1,YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1,Abp Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
